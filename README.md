@@ -1,5 +1,7 @@
-# rust-template
-Template Repository for a Rust program.
+# Adventure Game
+An CLI adventure game.
+
+The C++ implementation of the library can be found [here](https://github.com/ecyht2/EEEE2065-cw3).
 
 ## Installation
 
