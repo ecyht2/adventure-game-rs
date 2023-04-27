@@ -1,5 +1,5 @@
 # Adventure Game
-An CLI adventure game.
+A CLI adventure game.
 
 The C++ implementation of the library can be found [here](https://github.com/ecyht2/EEEE2065-cw3).
 
